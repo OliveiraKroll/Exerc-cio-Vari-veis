@@ -45,4 +45,22 @@ console.log("Tomou banho hoje?", banho)
 
 
 //3
+let a = Number(prompt("Digite 1 numero"))
+let b = Number(prompt("Digite 2 numero"))
+c = a
+a = b
+b = c 
 
+console.log("Valor de A" ,a)
+console.log("Valor de B" ,b)
+
+
+
+
+
+//Desafio
+const primeiroNumero = Numbert(prompt("Digite 1 numero"))
+const primeiroNumero = Numbert(prompt("Digite outro numero"))
+
+console.log("A soma é" ,primeiroNumero + segundoNumero);
+console.log("A multiplicação é" ,primeiroNumero + segundoNumero);
